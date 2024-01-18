@@ -54,9 +54,11 @@ un estudiante entusiasta que está dando sus primeros pasos en el emocionante mu
 #
 🎛️ Operating Systen:
 
-</br>
-</br>
+<p align="center">
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg"></code>
+<code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/windows.svg" alt="Windows" height="40"/></code>
+<p/>
+  
 
 
 <br/>
