@@ -61,18 +61,8 @@ un estudiante entusiasta que está dando sus primeros pasos en el emocionante mu
 <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/windows.svg" alt="Windows" height="40"/></code>
 <p/>
 
-
-
-
-
-
-</br>
-  
-
-  
-
-
 <br/>
+![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 
 
 
