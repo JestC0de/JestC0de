@@ -60,7 +60,7 @@ un estudiante entusiasta que está dando sus primeros pasos en el emocionante mu
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg"></code>
 <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/windows.svg" alt="Windows" height="40"/></code>
 <p/>
-![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg">
 <br/>
 
 
