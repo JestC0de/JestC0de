@@ -1,10 +1,10 @@
-### Hola Mundo! ##:
+### Hola Mundo!
 
 <h1 align="center">
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
   </a>
-  Hola, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; !
+  Hey, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; !
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
   </a>
@@ -38,7 +38,7 @@ un estudiante entusiasta que está dando sus primeros pasos en el emocionante mu
 <br/>
 
 
-**Estudiando Lenguajes y:  
+**Estudiando:  
 
 
 <br/>
