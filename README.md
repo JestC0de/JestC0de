@@ -61,13 +61,11 @@ un estudiante entusiasta que está dando sus primeros pasos en el emocionante mu
 <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/windows.svg" alt="Windows" height="40"/></code>
 <p/>
 
-
+</br>
   #
   Editors
 
 <p align="center">
-	
-
 ![icons8-visual-studio-code-2019](https://user-images.githubusercontent.com/76852813/172722742-4c84455a-830a-4f69-8dcd-ac9437e52251.svg)
 </p>
   
