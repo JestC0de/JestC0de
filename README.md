@@ -1,4 +1,4 @@
-### Hola Mundo!, Soy JestCode:
+### Hola Mundo! ##:
 
 <h1 align="center">
   <a target="_blank">
@@ -16,7 +16,7 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
 
-# Hola! 👋 soy JestCode  
+#👋 soy JestCode  
 un estudiante entusiasta que está dando sus primeros pasos en el emocionante mundo de la tecnología.
 🚀 Mi fascinación por la programación y la creación de soluciones digitales me ha llevado a embarcarme en esta emocionante travesía de aprendizaje. Actualmente, estoy descubriendo los fundamentos del desarrollo web y explorando las diversas ramas que componen este vasto universo tecnológico.
 💡 Cada día es una oportunidad para aprender algo nuevo, y estoy comprometido a absorber conocimientos como una esponja. Mi enfoque inicial se centra en construir una base sólida en desarrollo web y aplicaciones, con la esperanza de expandir mis horizontes a medida que avance en mi viaje.
@@ -48,11 +48,9 @@ un estudiante entusiasta que está dando sus primeros pasos en el emocionante mu
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></code>
 
-
 #
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg"></code>
 
