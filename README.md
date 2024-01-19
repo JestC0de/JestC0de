@@ -16,7 +16,7 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
 
-#👋 soy JestCode  
+#👋 soy Jest-Code  
 un estudiante entusiasta que está dando sus primeros pasos en el emocionante mundo de la tecnología.
 🚀 Mi fascinación por la programación y la creación de soluciones digitales me ha llevado a embarcarme en esta emocionante travesía de aprendizaje. Actualmente, estoy descubriendo los fundamentos del desarrollo web y explorando las diversas ramas que componen este vasto universo tecnológico.
 💡 Cada día es una oportunidad para aprender algo nuevo, y estoy comprometido a absorber conocimientos como una esponja. Mi enfoque inicial se centra en construir una base sólida en desarrollo web y aplicaciones, con la esperanza de expandir mis horizontes a medida que avance en mi viaje.
